@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <style type="text/css">
+      body{font-family: HoeflerText-Regular,Baskerville Old Face,Garamond,Times New Roman,serif;
+           margin:40px auto;max-width:650px;line-height:1.6;font-size:18px;color:#444;padding:0 10px}
+      h1{font-family: Futura,Trebuchet MS,Arial,sans-serif;}
+      h2,h3,h4,h5{font-family:'Futura-CondensedMedium'}
+      quote { max-width: 500px; margin: 0 auto; width: 100%; text-align: justify; }
+      quote p { background-color: #f9f9f9; padding: 10px; margin: 0px;
+                -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+      a { color: #265C83; }
+      a:link { text-decoration: none; }
+      ul { margin-top: 0px; }
+      .title { font-size: 36px; }
+      .header { font-family:'Futura-CondensedMedium'; font-size: 24px; }
+      .circle { width: 30px; height: 30px; background: lightblue;
+                -moz-border-radius: 15px; -webkit-border-radius: 15px;
+                border-radius: 15px; display:inline-block; }
+      .fixed { font-family: Menlo-Bold; font-size: 16px; }
+    </style>
+</head>
+<body>
+
+<h1 class="title">{{ page.title }}</h1>
+
+{{ content }}
+  
+</body>
+</html>
+
