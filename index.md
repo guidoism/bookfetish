@@ -3,6 +3,8 @@ layout: default
 title: Book Fetish
 ---
 
+This is a *markdown* file. 
+
 * <a href="https://www.amazon.com/Elements-Typographic-Style-Version-Anniversary/dp/0881792128/">
   The Elements of Typographic Style</a>
   by Robert Bringhurst, published by Hartley and Marks Publishers - Link is to 4th edition.
