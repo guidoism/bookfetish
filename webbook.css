@@ -63,18 +63,19 @@
 
 body {
     font-family: equity-text;
-    margin:40px auto;
-    max-width:650px;
+    margin: 40px auto;
+    max-width: 650px;
     line-height: 1.4;
-    font-size:18px;
-    color:#444;
-    padding:0 10px;
+    font-size: 18px;
+    color: #444;
+    padding: 0 10px;
+}
+
+img {
+    max-width: 650px;
 }
 
 p {
-    //text-indent: 1em;
-    //margin-top: 0px;
-    //margin-bottom: 0px;
     -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto;
 }
 
@@ -114,7 +115,9 @@ ul { margin-top: 0px; }
 
 .button { background-color: lightblue; padding: 7px; border-radius: 8px; font-size: 13px; font-family:'Futura-CondensedMedium';}
 
-#_copyright { display: none; }
-#_toc { display: none; }
+.guido_copyright { display: none; }
+.toc { display: none; }
+h1 { display: none; }
+.details { display: none; }
 
 
