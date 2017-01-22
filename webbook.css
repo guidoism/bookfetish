@@ -64,7 +64,7 @@
 body {
     font-family: equity-text;
     margin: 40px auto;
-    max-width: 650px;
+    max-width: 750px;
     line-height: 1.4;
     font-size: 18px;
     color: #444;
@@ -72,7 +72,8 @@ body {
 }
 
 img {
-    max-width: 650px;
+    max-width: 750px;
+    margin: 0 -10px;
 }
 
 p {
@@ -119,5 +120,6 @@ ul { margin-top: 0px; }
 .toc { display: none; }
 h1 { display: none; }
 .details { display: none; }
+
 
 
