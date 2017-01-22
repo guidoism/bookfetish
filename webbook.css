@@ -114,4 +114,7 @@ ul { margin-top: 0px; }
 
 .button { background-color: lightblue; padding: 7px; border-radius: 8px; font-size: 13px; font-family:'Futura-CondensedMedium';}
 
+#_copyright { display: none; }
+#_toc { display: none; }
+
 
