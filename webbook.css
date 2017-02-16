@@ -58,5 +58,5 @@ ul { margin-top: 0px; }
 h1 { display: none; }
 .details { display: none; }
 
-.letter { font-family: 'equity-caps'; }
+.letter { font-family: 'equity-caps'; text-transform: lowercase; }
 
